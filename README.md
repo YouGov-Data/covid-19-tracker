@@ -20,8 +20,9 @@ The files contain anonymised respondent level data files from surveys conducted 
 
 ## Files
 
-- individual country files with respondent-level data (`countryname.csv`)
 - codebook of the core questionnaire (`codebook.pdf`)
+- list of countries with data (`countries.csv`)
+- individual country files with respondent-level data (`data/country-name.csv`)
 
 ## About YouGov
 
