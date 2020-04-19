@@ -1,5 +1,3 @@
-
-
 # Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub
 
 This is the data repository for the Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub.
@@ -10,11 +8,13 @@ It is designed to provide behavioural analysis on how different populations are 
 
 The questions in the survey, led by IGHI, cover data on testing, symptoms, self-isolating in response to symptoms and the ability and willingness to self-isolate if needed. It also looks at behaviours, including going outdoors, working outside the home, contact with others, hand washing and the extent of compliance with 20 common preventative measures.
 
-IGHI has built a publicly available [dashboard](www.coviddatahub.com) to visualise the data.
+IGHI has built a publicly available [dashboard](http://www.coviddatahub.com) to visualise the data.
 
 The datafiles contain responses from nationally representative surveys of the general public about symptoms, testing, self-isolation, social distancing and behaviour.
 
 Contextual data includes: gender, age, region (within country), number of people in the household, children in household, health conditions, working status and the date of the survey response. A weighting variable is also provided, typically based on age, gender and region. For obvious reasons, people with severe symptoms, people who are / have been hospitalised and some other hard to reach groups will be under-represented in the sample.
+
+We have completed a privacy assessment and have taken steps to safeguard the anonymity of the respondents by ensuring that the survey responses and contextual data, when looked at in isolation or as a combined data set, cannot be used to re-identify the respondents.  A key part of this has been the exclusion of all data may lead to a greater risk of identification.  For example, in the data set ‘age’ is represented by a numeric value rather than a full date of birth, and ‘regions’ are represented areas large enough to protect privacy, but which are still statistically valuable, such as Scotland or West Midlands.
 
 The files contain anonymised respondent level data files from surveys conducted from the 31st March 2020 to date across : Australia; Brazil; Canada; China; Denmark; Finland; France; Germany; Hong Kong; India; Indonesia; Italy; Japan; Malaysia; Mexico; Netherlands; Norway; Philippines; Saudi Arabia; Singapore; South Korea; Spain; Sweden; Taiwan; Thailand; UAE; UK; USA; Vietnam.
 
@@ -43,7 +43,16 @@ The files contain anonymised respondent level data files from surveys conducted 
 
 ## Imperial College London – ICL-YouGov Survey Development
 
-ICL-YouGov Global Survey development of measures is led by [Sarah P. Jones](www.linkedin.com/in/sarah-jones-mhintelligence/) of Imperial College London’s Institute of Global Health Innovation.
+ICL-YouGov Global Survey development of measures is led by [Sarah P. Jones](www.linkedin.com/in/sarah-jones-mhintelligence/) of Imperial College London’s Institute of Global Health Innovation ([ORCID](https://orcid.org/0000-0002-8344-2634)). Survey questions have been contributed and adapted from collaborative sources, please see coviddatahub.com for a list of contributors..
+
+## Other sources of data
+- [World Economic Forum](https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=data)
+- [The World Bank](https://maps.worldbank.org)
+- [Oxford Policy tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
+- [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
+- [CDC testing in US](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html)
+- [Johns Hopkins Data Repository on GitHub](https://github.com/CSSEGISandData/COVID-19)
+- [WHO COVID-19 Dashboard](https://covid19.who.int/)
 
 ## Terms of use
 
@@ -51,4 +60,4 @@ This data repository is copyright 2020 YouGov Plc, all rights reserved, is provi
 
 ## Citation
 
-*Imperial College London Big Data Analytics Unit and YouGov Plc. 2020, Imperial College London YouGov Covid Data Hub, v1.0,  YouGov Plc, April 2020*
+*Jones, Sarah P., Imperial College London Big Data Analytical Unit and YouGov Plc. 2020, Imperial College London YouGov Covid Data Hub, v1.0, YouGov Plc, April 2020*
