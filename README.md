@@ -34,7 +34,7 @@ The files contain anonymised respondent level data files from surveys conducted 
 
 ## Contact
 
- - Researchers, policy makers and other  scientific  collaborators can contact the research and policy team at Imperial College using [this link](https://imperial.eu.qualtrics.com/jfe/form/SV_dj03OSFnLkf9Jw9).
+ - Researchers, policy makers and other  scientific  collaborators can contact the research and policy team at Imperial College using [this link](https://imperial.eu.qualtrics.com/jfe/form/SV_8DtB6HNyjm1cVCJ).
  - Additional COVID-19 behavioural data for health organisations, media and companies is also accessible upon request on [this link](https://yougov.co.uk/solutions/sectors/covid-19-monitor).
 
 ## Institute of Global Health Innovation Imperial College London – Big Data Analytics Unit
