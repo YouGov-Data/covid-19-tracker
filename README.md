@@ -48,6 +48,7 @@ ICL-YouGov Global Survey development of measures is led by [Sarah P. Jones](www.
 ## Other sources of data
 - [World Economic Forum](https://intelligence.weforum.org/topics/a1G0X000006O6EHUA0?tab=data)
 - [The World Bank](https://maps.worldbank.org)
+- [Oxford Supertracker](https://supertracker.spi.ox.ac.uk/)
 - [Oxford Policy tracker](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
 - [ECDC](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
 - [CDC testing in US](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.html)
