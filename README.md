@@ -1,6 +1,6 @@
 # Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub
 
-**Please note: Data collection will be closing at the end of September, but the data will remain accessible. The last wave of data collection will be between Wednesday 16th and Wednesday 30th September. If you are interested in funding the Behaviour Tracker Study or further data collection (in some or all countries) please see the Contact section below to send us a message.**
+**Data collection will continue on a fortnightly basis to the end of November 2020 in 15 countries (Australia, Canada, Denmark, Finland, France, Germany, Italy, Japan, Netherlands, Norway, Singapore, South Korea, Spain, Sweden, United Kingdom).**
 
 This is the data repository for the Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub.
 
