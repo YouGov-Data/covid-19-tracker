@@ -1,6 +1,6 @@
 # Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub
 
-*4th December 2020: Data collection is currently paused but we hope to begin again soon.**
+4th December 2020: Data collection is currently paused but we hope to begin again soon.
 
 This is the data repository for the Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub.
 
