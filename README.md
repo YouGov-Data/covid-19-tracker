@@ -1,6 +1,6 @@
 # Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub
 
-**Data collection will continue on a fortnightly basis to the end of November 2020 in 15 countries (Australia, Canada, Denmark, Finland, France, Germany, Italy, Japan, Netherlands, Norway, Singapore, South Korea, Spain, Sweden, United Kingdom).**
+*4th December 2020: Data collection is currently paused but we hope to begin again soon.**
 
 This is the data repository for the Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub.
 
