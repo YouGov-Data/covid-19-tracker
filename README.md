@@ -1,6 +1,6 @@
 # Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub
 
-4th February 2021: Data from Israel was added from this wave and going forward. Israel replaces Finland. 
+4th February 2021: Data from Israel was added from this wave and going forward. It is nationally representative of Israeli citizens only. Israel replaces Finland. 
 
 16th December 2020: Data collection has started again today, we expect datafiles to come through from w/c 21st December. This will continue for another 8 fortnightly waves for 15 countries taking us to the end of March 2021. 
 
