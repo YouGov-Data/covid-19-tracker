@@ -1,5 +1,5 @@
 # Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub
-31st March 2021: data collection will continue with the current set of countries and fortnightly regularity until at least the end of June 2021. 
+15th June 2021: data collection will continue with the current set of countries and fortnightly regularity until at least the middle of October 2021. 
 
 3rd March 2021: We have replaced Netherlands with the USA from this point onwards. 
 
@@ -7,7 +7,7 @@
 
 This is the data repository for the Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub.
 
-YouGov has partnered with the Institute of Global Health Innovation (IGHI) at Imperial College London to gather global insights on people’s behaviours in response to COVID-19. The research will cover 29 countries, interviewing around 21,000 people each week.
+YouGov has partnered with the Institute of Global Health Innovation (IGHI) at Imperial College London to gather global insights on people’s behaviours in response to COVID-19. 
 
 It is designed to provide behavioural analysis on how different populations are responding to the pandemic, helping public health bodies in their efforts to limit the impact of the disease. Anonymised respondent level data will be available for all public health and academic institutions globally.
 
