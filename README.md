@@ -1,4 +1,6 @@
 # Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub
+11th October 2021: Data collection will continue to the end of 2021 at least, still fortnightly but with a reduced number of countries (Australia, Canada, Denmark, France, Germany, Israel, Italy, Japan, Netherlands, Spain, United Kingdom). 
+
 31st August 2021: We have replaced Norway with the Netherlands from this point.
 
 15th June 2021: Data collection will continue with the current set of countries and fortnightly regularity until at least the middle of October 2021. 
