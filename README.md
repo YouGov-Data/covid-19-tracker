@@ -1,8 +1,8 @@
 # Imperial College London YouGov Covid 19 Behaviour Tracker Data Hub
+29th March 2022: Data collection has now ended for the study. Please get in touch with us if you have any questions on public@yougov.com or the other routes below. We hope it has been useful and thank you to all those who have engaged with this data over the last two years. 
+
 8th December 2021: Data collection will continue to the end of March 2022 at least, still fortnightly with Australia, Canada, Denmark, France, Germany, Israel, Italy, Japan, Netherlands, Spain and United Kingdom.
-
 8th December 2021: Please note: due to the way consent for personal data on health questions is managed there were periods in which many records do not have a response for the PHQ4 questions.  These appear as N/A (Not asked). This relates specifically to Australia (from 19/02/21 to 18/10/21), Canada (11/02/21 to 15/10/21) and the USA (23/2/21 to 13/10/21).
-
 31st August 2021: We have replaced Norway with the Netherlands from this point.
 3rd March 2021: We have replaced Netherlands with the USA from this point onwards. 
 4th February 2021: Data from Israel was added from this wave and going forward. It is nationally representative of Israeli citizens only. Israel replaces Finland. 
@@ -14,8 +14,6 @@ YouGov has partnered with the Institute of Global Health Innovation (IGHI) at Im
 It is designed to provide behavioural analysis on how different populations are responding to the pandemic, helping public health bodies in their efforts to limit the impact of the disease. Anonymised respondent level data will be available for all public health and academic institutions globally.
 
 The questions in the survey, led by IGHI, cover data on testing, symptoms, self-isolating in response to symptoms and the ability and willingness to self-isolate if needed. It also looks at behaviours, including going outdoors, working outside the home, contact with others, hand washing and the extent of compliance with 20 common preventative measures.
-
-IGHI has built a publicly available [dashboard](http://www.coviddatahub.com) to visualise the data.
 
 The datafiles contain responses from nationally representative surveys of the general public about symptoms, testing, self-isolation, social distancing and behaviour.
 
